@@ -6,3 +6,6 @@ This repository contains my Python learning programs.
 - Conditions
 ## Goal
 To become a skilled software developer.
+# How to Run
+Run any Python file using:
+python filename.py
